@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: flask
-        image: armhov/flask-app:15-8e76fd27503fd14da34a16e111ded13fdaf134ea
+        image: armhov/flask-app:1.0
         ports:
         - containerPort: 8080
 
